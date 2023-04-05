@@ -4,8 +4,6 @@ Rust implementation of [Video Encoding from Scratch](https://github.com/kevmo314
 
 ## Run Locally
 
-Clone the project
-
 ```bash
 cargo run
 ```
